@@ -1,0 +1,11 @@
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\bin\Debug\Pharmacy2U test.exe.config
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\bin\Debug\Pharmacy2U test.exe
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\bin\Debug\Pharmacy2U test.pdb
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U test.csprojAssemblyReference.cache
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U_test.Properties.Resources.resources
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U test.csproj.GenerateResource.cache
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U test.csproj.CoreCompileInputs.cache
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U test.exe
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U test.pdb
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U_test.AuditWindow.resources
+C:\Users\jake\source\repos\Pharmacy2U test\Pharmacy2U test\obj\Debug\Pharmacy2U_test.ConversionWindow.resources
